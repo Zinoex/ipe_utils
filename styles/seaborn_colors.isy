@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="seaborn_colors">
+
+<!-- Example: <color name="yellowgreen" value="0.604 0.804 0.196"/> -->
+</ipestyle>
