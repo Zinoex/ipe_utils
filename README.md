@@ -2,14 +2,13 @@
 My homemade ipe utils including colors, preambles, and ipelets, and guides including functional plotting, pages, and slidehows in ipe.
 
 Styles:
-
+- Seaborn color palettes
 
 Ipelets:
 - Export PNG with config:
 	- DPI
 
 Want to do:
-- Seaborn color palettes
 - Figure style
 	- Computer Modern Sans Serif font
 	- A3 but allow crop
