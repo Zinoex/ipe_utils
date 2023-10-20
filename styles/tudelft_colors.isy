@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="tudelft_colors">
+
+<!-- Primary colors -->
+<color name="tud_cyan" value="0.000 0.651 0.839" />
+<color name="tud_white" value="1.000 1.000 1.000" />
+<color name="tud_black" value="0.000 0.000 0.000" />
+
+<!-- Secondary colors -->
+<color name="tud_dark_blue" value="0.047 0.137 0.251" />
+<color name="tud_turquoise" value="0.000 0.722 0.784" />
+<color name="tud_blue" value="0.000 0.463 0.761" />
+<color name="tud_purple" value="0.435 0.114 0.467" />
+<color name="tud_pink" value="0.937 0.376 0.639" />
+<color name="tud_raspberry" value="0.647 0.000 0.204" />
+<color name="tud_red" value="0.878 0.235 0.192" />
+<color name="tud_orange" value="0.925 0.408 0.259" />
+<color name="tud_yellow" value="1.000 0.722 0.110" />
+<color name="tud_light_green" value="0.424 0.761 0.290" />
+<color name="tud_dark_green" value="0.000 0.608 0.467" />
+
+</ipestyle>
